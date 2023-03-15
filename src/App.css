@@ -822,9 +822,9 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #000000;
+  border: 1px solid #0322ee;
   border-radius: 4px;
-  background: #0322ee;
+  background: #000000;
   color: #ffffff;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
